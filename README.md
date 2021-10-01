@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Chat App**
 
-- 🌱 I’m currently learning **TypeScript, Next.js**
+- 🌱 I’m currently learning **Node.js, TypeScript, Next.js**
 
 
 <h3 align="left">Languages and Tools:</h3>
