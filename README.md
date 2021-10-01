@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raja</h1>
-<h3 align="center">I am currently working as a front end react developer. I am open to new opputunities</h3>
+<h3 align="center">I am currently looking for full time opportunities as a Frontend/Fullstack developer</h3>
 
 - 🔭 I’m currently working on **Chat App**
 
