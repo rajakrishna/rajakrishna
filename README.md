@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raja</h1>
 <h3 align="center">I am currently looking for full time opportunities as a Frontend/Fullstack developer</h3>
 
-- 🔭 I’m currently working on **Video Chat App**
+- 🔭 I’m currently working on **My Portfolio**
 
 - 🌱 I’m currently learning **Node.js, TypeScript, Next.js**
 
