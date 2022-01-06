@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raja</h1>
-<h3 align="center">I am currently working as a Frontend Engineer using MERN Stack and GCP</h3>
+<h3 align="center">I am currently working as a Frontend Engineer using React</h3>
 
 - 🔭 I’m currently working on **Web3 websites**
 
