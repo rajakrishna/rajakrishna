@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raja</h1>
 <h3 align="center">I am currently working as a Frontend Engineer using React</h3>
 
-- 🔭 I’m currently working on **Web3 websites**
+- 🔭 I’m currently working on **TypeScript, Storybook**
 
-- 🌱 I’m currently learning **WEB3/NFT/DAO**
+- 🌱 I’m currently learning **React Testing Library**
 
 
 <h3 align="left">Languages and Tools:</h3>
