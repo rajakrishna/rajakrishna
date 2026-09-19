@@ -33,6 +33,6 @@ Talks include *Building AI Agents in TypeScript with Mastra* (Commit Your Code /
 
 ### Outside the IDE
 
-Aggressive homelab tinkerer. Also: lawn / home projects, woodworking, 3D printing.
+homelab tinkerer, woodworking, 3D printing
 
 ---
