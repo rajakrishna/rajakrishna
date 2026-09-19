@@ -13,7 +13,7 @@ Building AI-powered products — agents, LLM eval, frontend platforms
 
 ### What I work on
 
-At **OnePay** I ship React / TypeScript / Next.js surfaces for AI product features: agent workflows, LLM evaluation, experimentation, and observability (NestJS, LangChain, Docker, ArgoCD, Datadog).
+At **OnePay** I work on AI product features: agent workflows, LLM evaluation, experimentation, and observability (NestJS, LangChain, Docker, ArgoCD, Datadog).
 
 Before that I was an early frontend engineer at **LOOP** across quoting, billing, payments, and agent-facing systems.
 
@@ -27,14 +27,12 @@ Before that I was an early frontend engineer at **LOOP** across quoting, billing
 
 Talks include *Building AI Agents in TypeScript with Mastra* (Commit Your Code / Sessionize).
 
-### Stack I reach for
+### Stack
 
 `TypeScript` · `React` · `Next.js` · `Node` · `Expo` · `Convex` · `Postgres` · `Docker` · LLM agents & evals
 
 ### Outside the IDE
 
-Aggressive homelab tinkerer. Also: lawn / home projects, woodworking, 3D printing, birds, cars.
+Aggressive homelab tinkerer. Also: lawn / home projects, woodworking, 3D printing.
 
 ---
-
-<sub>Open to Staff IC conversations · Prefer building over slideware</sub>
