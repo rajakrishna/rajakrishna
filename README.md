@@ -4,7 +4,6 @@
 
 **Senior Software Engineer @ OnePay** · Dallas, TX  
 Building AI-powered products — agents, LLM eval, frontend platforms  
-Aiming **Staff IC**
 
 [Website](https://rajakrishna.com) · [X](https://x.com/_rajakrishna_) · [LinkedIn](https://www.linkedin.com/in/rajakrishna) · [Sessionize](https://sessionize.com/rajakrishna/)
 
