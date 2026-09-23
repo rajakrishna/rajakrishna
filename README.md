@@ -13,7 +13,7 @@ Building AI-powered products — agents, LLM eval, frontend platforms
 
 ### What I work on
 
-At **OnePay** I work on AI product features: agent workflows, LLM evaluation, experimentation, and observability (NestJS, LangChain, Docker, ArgoCD, Datadog).
+At **OnePay** I work on AI product features: agent workflows, LLM evaluation, experimentation and observability.
 
 Before that I was an early engineer at **LOOP** across quoting, billing, payments, and agent-facing systems.
 
